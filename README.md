@@ -24,7 +24,7 @@
 - файлы KNN, Bayes и др - отдельные наброски работы с данными моделями
 - файлы .pkl - обученные модели
 
-[Ссылка на сайт](https://github.com/SiGidas/Aposemat_IoT-23/tree/master/site/editor.md "Сайт")
+ [Ссылка на сайт](http://pd-2020-1.std-598.ist.mospolytech.ru/index.php "Сайт")
 
 #### Задачи по проекту:
 - Иучение предметной области;
