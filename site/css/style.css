@@ -15,6 +15,12 @@ p a:hover {
 	color:#525252!important;
 }
 
+img.image{
+	margin-left: 100px;
+	text-align: center;
+	height:400px;
+}
+
 /*------------------------- Header ------------------------*/
 .header {
 	height:168px;
