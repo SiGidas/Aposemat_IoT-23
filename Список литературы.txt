@@ -1,0 +1,21 @@
+1. Aposemat_IoT-23-master (https://www.stratosphereips.org/datasets-iot23) – Набор данных, предоставленный Чешским университетом.
+2. Шелухин О.И., Симонян А.Г., Ванюшина А.В. Влияние структуры обучающей выборки на эффективность классификации приложений трафика методами машинного обучения // T-Comm: Телекоммуникации и транспорт. 2017. Т. 11. № 2. С. 25–31.
+3. Emel'yanov V.N., Emel'yanova M.M., Zinov'eva E.L., Shamonov M.U. (2016). Analiz metodov obnaruzheniya anomaliy setevogo trafika // V sbornike: Priborostroenie v XXI veke - 2015. Integraciya nauki, obrazovaniya I proizvodstva. Sbornik materialov Xi Mezdunarodnoy naucho-technicheskoy konferencii, pp. 420-425
+4. Шелухин О.И. Сетевые аномалии. Обнаружение, локализация, прогнозирование. М.: Горячая линия–Телеком, 2019. 448 с. - Сборник научных трудов
+5. Шелухин О.И., Сакалема Д.Ж., Филинова А.С. Обнаружение вторжений в компьютерные сети (сетевые аномалии). М: Горячая линия–Телеком, 2016. 220 c. - Сборник научных трудов
+6. Абрамов Е.С., Тарасов Я.В. Применение комбинированного нейросетевого метода для обнаружения низкоинтенсивных DDoS-атак на web-сервисы // Инженерный вестник Дона. 2017. Т. 46, № 3(46). C. 59. URL: https://elibraryru/item.asp?id=30753050
+7. Тарасов Я.В. Исследование применения нейронных сетей для обнаружения низкоинтенсивных DDoS-атак прикладного уровня // Вопросы кибербезопасности.
+2017. № 5(24). C. 23-29. DOI: 10.21681/2311-3456-20175-23-29
+8. Воробьёва Ю.Н. и др. Нейросетевая модель выявления DDOS-атак // Вестник технологического университета.
+2018. Т. 21, №. 2. С. 94-98. URL: https://elibrary.ru/item.as-p?id=32683897
+9. Bodström T., Hämäläinen T. State of the Art Literature Review on Network Anomaly Detection with Deep Learning / [16] O. Galinina, S. Andreev, S. Balandin, Y. Koucheryavy (Eds.) // Internet of Things, Smart Spaces, and Next Generation Networks and Systems. NEW2AN 2018, ruSMART 2018. Lecture Notes in Computer Science. Vol. 11118. Springer, Cham, 2018. Pp. 64-76. DOI: 10.1007/978-3-030-01168-0_7
+10. Yin C., Zhu Y., Fei J., He X. A Deep Learning Approach for Intrusion Detection Using Recurrent Neural Networks // IEEE Access. 2017. Vol. 5. Pp. 21954-21961. DOI: 10.1109/AC-cess.2017.2762418 References
+11. Yuan X, Li C., Li X. DeepDefense: Identifying DDoS Attack via Deep Learning // 2017 IEEE International Conference on [1] Smart Computing (SMARTCOMP). Hong Kong, 2017. Pp. 1-8. DOI: 10.1109/SMARTCOMP.2017.7946998
+12. Aygun R.C., Yavuz A.G. Network Anomaly Detection with Stochastically Improved Autoencoder Based Models // 2017 IEEE 4th International Conference on Cyber Security and [2] Cloud Computing (CSCloud). New York, NY, 2017. Pp. 193198. DOI: 10.1109/CSCloud.2017.39
+13. Van N., Thinh T., Sach L. An anomaly-based network intrusion detection system using Deep learning // 2017 International Conference on System Science and Engineering (ICSSE). Ho Chi Minh City, 2017. Pp. 210-214. DOI: 10.1109/ ICSSE.2017.8030867
+14. Baek S., Kwon D., Kim J., Suh S.C., Kim H., Kim I. Unsupervised Labeling for Supervised Anomaly Detection in Enterprise and Cloud Networks // 2017 IEEE 4th International Conference on Cyber Security and Cloud Computing (CSCloud). New York, NY, 2017. Pp. 205-210. DOI: 10.1109/CSCloud.2017.26
+15. Thing V.L.L. IEEE 802.11 Network Anomaly Detection and Attack Classification: A Deep Learning Approach // 2017 IEEE Wireless Communications and Networking Conference (WCNC). San Francisco, CA, 2017. Pp. 1-6. DOI: 10.1109/ WCNC.2017.7925567
+16. Wang W., Zhu M., Zeng X., Ye X., Sheng Y. Malware traffic classification using convolutional neural network for representa- [6] tion learning // 2017 International Conference on Information Networking (ICOIN). Da Nang, 2017. Pp. 712-717. DOI: 10.1109/1CO1N.2017.7899588
+17. Viet H.N., Van Q.N., Trang L.L.T., Nathan S. Using Deep Learning Model for Network Scanning Detection // Proceedings of the 4th International Conference on Frontiers of Educational Technologies (ICFET '18). ACM, New York, NY, USA, 2018. Pp. 117-121. DOI: 10.1145/3233347.3233379 
+18. Bishop C.M. Pattern Recognition and Machine Learning. Berlin: Springer, 2006.
+
