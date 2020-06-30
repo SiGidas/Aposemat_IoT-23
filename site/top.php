@@ -18,10 +18,5 @@
 					<a href="contact.php"><span>К</span>онтакты</a>
 				</li>
 			</ul>
-			<div>
-				<p>
-					<span>Д</span>о <span>С</span>дачи <span>Р</span>аботы: <span><span>10</span></span> <span>Н</span>едель
-				</p>
-			</div>
 		</div>
 	</div>
